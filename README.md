@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgabsarmiento
+- 👋 Hi, I’m @samms
 - 👀 I’m interested in programming, architecture, project management and design of educational and personal platforms with the help of multidisciplinary tools for a better proposal.
 - 🌱 I am currently learning html, CCS, javscrip.
 - 💞️ I am looking to collaborate on edtech platforms.
